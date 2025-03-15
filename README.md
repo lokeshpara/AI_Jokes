@@ -32,5 +32,6 @@ You can modify the following files to customize the extension:
 
 ## License
 ##epdajddeobdifkmeomkcpfgcebaaliee
+528209800503-bpkrh72crn88v110lnsobllqedqt19h2.apps.googleusercontent.com
 
 MIT License - Feel free to modify and distribute this extension as needed. 
