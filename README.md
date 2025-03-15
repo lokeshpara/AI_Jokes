@@ -31,5 +31,6 @@ You can modify the following files to customize the extension:
 - `background.js`: Change idle detection time (minimum 15 seconds)
 
 ## License
+##epdajddeobdifkmeomkcpfgcebaaliee
 
 MIT License - Feel free to modify and distribute this extension as needed. 
